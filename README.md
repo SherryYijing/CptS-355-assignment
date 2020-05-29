@@ -11,7 +11,7 @@ For HW3
 Lost last question. Grade: 88/100.
 
 For HW4
-Grade for part a is 98/100, for part b is 82.95/100.
+Grade for part1 is 98/100, for part2 is 82.95/100.
 
 For HW5
 Grde: 81/100
