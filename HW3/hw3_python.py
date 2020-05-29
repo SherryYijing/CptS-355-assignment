@@ -93,15 +93,8 @@ def palindromes(S):
 #5. Iterators
 #a) interlaceIter()
 class interlaceIter(object):
-    def __init__(self,l,s):
-        self.l = l
-        self.s = s
-        self.result = []
-        for x,y in zip(self.l,self.s):
-            self.result.append(x)
-            self.result.append(y)
-            
-        self.result = iter(self.result)
+    def __init__(self,list,string):
+        #lost
         
     def __next__(self):
         return next(self.result)
